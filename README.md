@@ -21,7 +21,7 @@
 | 2 | DE190425 | Phạm Văn Quyết | quyetpham2k5 | Member |  |
 | 3 | DE190986 | Nguyễn Tiến Lộc | tienloc1234 | Member |  |
 | 4 | DE190096 | Nguyễn Đức Thương | thuong1703n | Member |  |
-| 5 | DE180571 | Trần Thanh Gia Huy |  | Member |  |
+| 5 | DE180571 | Trần Thanh Gia Huy | huyttde12 | Member |  |
 
 ---
 
