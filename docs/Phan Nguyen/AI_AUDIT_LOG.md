@@ -5,12 +5,12 @@
 | Thông tin | Nội dung |
 |---|---|
 | Môn học |  |
-| Mã môn học |  |
+| Mã môn học | SWP391 |
 | Lớp |  |
 | Học kỳ |  |
-| Tên bài tập / Project |  |
-| Tên sinh viên / Nhóm |  |
-| MSSV / Danh sách MSSV |  |
+| Tên bài tập / Project | Ofice Maintenace Manage System |
+| Tên sinh viên / Nhóm | Phan Nguyen |
+| MSSV / Danh sách MSSV | DE191019 |
 | Giảng viên hướng dẫn |  |
 | Ngày bắt đầu |  |
 | Ngày hoàn thành |  |
